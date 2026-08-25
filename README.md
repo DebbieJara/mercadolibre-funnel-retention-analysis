@@ -82,6 +82,7 @@ SQL (PostgreSQL) · Google Sheets
 
 ## Repository structure
 
+```text
 mercadolibre-funnel-retention-analysis/
 ├── README.md
 ├── mercadolibre_analysis.sql
@@ -90,6 +91,7 @@ mercadolibre-funnel-retention-analysis/
     ├── funnel_general.png
     ├── funnel_por_pais.png
     └── retencion_cohortes.png
+```
 
 ## Dataset
 
