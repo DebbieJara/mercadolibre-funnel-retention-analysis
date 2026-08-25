@@ -31,19 +31,19 @@ Using two datasets covering January-August 2025, I mapped the complete conversio
 
 ## Dashboard
 
-![Executive summary dashboard](images/executive-summary-dashboard.png)
+![Executive summary dashboard](images/dashboard_resumen.png)
 
 Executive summary dashboard built in Google Sheets.
 
-![Conversion funnel by stage](images/conversion-funnel-by-stage.png)
+![Conversion funnel by stage](images/funnel_general.png)
 
 Overall conversion funnel: drop-off at each stage.
 
-![Drop-off by country](images/dropoff-by-country.png)
+![Drop-off by country](images/funnel_por_pais.png)
 
 select_item → add_to_cart drop-off segmented by country.
 
-![Retention curves by cohort](images/retention-curves-by-cohort.png)
+![Retention curves by cohort](images/retencion_cohortes.png)
 
 D7-D28 retention curves by monthly cohort. August anomaly visible.
 
