@@ -74,15 +74,22 @@ Period analyzed: January 1 - August 31, 2025
 - NULLIF to avoid division by zero in conversion calculations
 - Conditional aggregation with CASE WHEN for retention metrics
 - DATE_TRUNC and TO_CHAR for cohort month assignment
-COUNT(DISTINCT user_id) for accurate user deduplication
+- COUNT(DISTINCT user_id) for accurate user deduplication
 
 ## Tools
 
 SQL (PostgreSQL) · Google Sheets
 
-## Files
+## Repository structure
 
-- `mercadolibre_analysis.sql`: all SQL queries organized by analysis section
+mercadolibre-funnel-retention-analysis/
+├── README.md
+├── mercadolibre_analysis.sql
+└── images/
+    ├── dashboard_resumen.png
+    ├── funnel_general.png
+    ├── funnel_por_pais.png
+    └── retencion_cohortes.png
 
 ## Dataset
 
